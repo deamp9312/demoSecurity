@@ -34,3 +34,8 @@ yml 파일에 db이름 + useUnicode=true&useJDBCCompliantTimezoneShift=true&useL
 
 
 ![image](https://user-images.githubusercontent.com/71180644/156737252-00e4bb7a-20ca-4205-b73f-528aeac3ea8e.png)
+
+
+
+![image](https://user-images.githubusercontent.com/71180644/156741602-f235918f-3662-4c42-914e-40a14114de12.png)
+
